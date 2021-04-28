@@ -1,0 +1,14 @@
+{
+    "okapi" : [ {
+      "name" : "demofolio",
+      "x_okapi_url" : "https://okapi-demo.folio.ebsco.com",
+      "x_okapi_tenant" : "fs00000002",
+      "x_okapi_token" : "",
+      "content_type": "application/json",
+      "user" : "",
+      "password" : "",
+      "x_okapi_version" : "3.1.4",
+      "x_okapi_release" : "Goldenrod",
+      "x_okapi_status" : "True"
+      },
+      
